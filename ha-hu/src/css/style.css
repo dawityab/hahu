@@ -1,0 +1,307 @@
+
+/* All sections postion */
+.section_postion{
+    text-align: center;
+    box-shadow: brown 15px 10px 15px;
+    border-radius: 20px;
+    margin-bottom:20px;
+
+}
+.row{
+    text-align: center;
+    align-content: center;
+    
+}
+.first{
+    background-color: rgb(118, 116, 233);
+}
+.second{
+    background-color: rgb(213, 216, 25);
+}
+.third{
+    background-color: rgb(230, 175, 74);
+}
+.furth{
+    background-color: rgb(134, 224, 122);
+    
+}
+.fifth{
+    background-color: rgb(163, 240, 167);
+}
+/* Sub-title */
+.sub-title{
+    background-color:rgb(159, 207, 247);
+    font-family:  "cursive";
+    border-radius: 10px;
+    margin: 5px;
+}
+.choice{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.a{
+    color: rgb(8, 247, 247);
+}
+.b{
+    color: yellowgreen;
+}
+.c{
+    color: rgb(128, 0, 0);
+}
+.d{
+    color: chocolate;
+}
+.e{
+    color: darkblue;
+}
+.g{
+    color: darkmagenta;
+}
+.h{
+    color: rgb(235, 15, 15);
+}
+.i{
+    color: rgb(162, 236, 12);
+}
+.j{
+    color: rgb(11, 68, 63);
+}
+.k{
+    color: rgb(245, 108, 11);
+}
+.l{
+    color: rgb(83, 202, 238);
+}
+.m{
+    color: rgb(245, 241, 6);
+}
+.n{
+    color: rgb(247, 7, 195);
+}
+.q{
+    color: rgb(11, 11, 240);
+}
+.r{
+    color: rgb(49, 184, 8);
+}
+.s{
+    color: rgb(64, 143, 247);
+}
+.t
+{
+    color: rgb(245, 163, 12);
+}
+.u{
+    color: rgb(245, 20, 4);
+}
+.v{
+    color: rgb(4, 53, 24);
+
+}
+.w{
+    color: rgb(235, 88, 3);
+
+}
+.x{
+    color: rgb(74, 16, 233);
+}
+.y{
+    color: rgb(243, 247, 14);
+}
+.z{
+    color: rgb(245, 22, 226);
+}
+/* All title style */
+.green-color,.yellow-color,.red-color{
+    font-size:7rem;
+    background-color: rgb(135, 140, 228);
+    letter-spacing: 30px;
+    box-shadow: brown 15px 10px 15px;
+    margin-bottom:50px;
+    position: relative;
+
+
+    
+}
+.header{
+    border-radius: 10px;
+}
+
+.title{
+    color: rgba(245, 242, 35, 0.733);
+    font-size: 5rem;
+    font-weight: bolder;
+    text-shadow: 5px 5px #a65d4b ;
+
+
+}
+/* Title green */
+.green-color{
+     color:green;
+     text-shadow: 10px 10px #286b3a;
+    
+}
+/* Title yellow */
+.yellow-color{
+    color: yellow;
+    text-shadow: 10px 10px #b4b846;
+}
+/* Title red */
+.red-color{
+    color:red;
+    text-shadow: 10px 10px #a65d4b;
+}
+/* All buttons styel  */
+ .btn-style{
+margin: 30px 40px 30px;
+padding: 10px; 
+
+}
+.easy,.mid,.hard{
+    width: 200px;
+    height: 150px;
+   
+
+    }
+    .easy:hover{
+        background-color: rgb(90, 212, 60);
+        color: blanchedalmond;
+        
+    }
+    .mid:hover{
+        background-color: rgb(252, 252, 104);
+        color:black;
+    }
+    .hard:hover{
+        background-color: rgb(253, 64, 57);
+        color: blanchedalmond;
+    }
+  
+    .kids{
+       
+        border-radius: 60px;
+        font-size: 2.5rem;
+        font-weight: bolder;
+        border: 0px solid lightpink;
+
+        
+    }
+    a:link {
+        text-decoration: none;
+        /* color: rgb(136, 172, 136); */
+      }
+      
+    .easy{
+        color:rgb(235, 231, 22);
+        background-color: rgb(13, 116, 13);
+        box-shadow: rgb(9, 27, 6) 15px 10px 5px;
+    }
+    .mid{
+        color:rgb(61, 109, 33);
+        background-color: rgb(211, 211, 41);
+        box-shadow: rgb(23, 24, 6) 15px 10px 5px;
+    }
+    .hard{
+        color:#fff;
+        background-color: rgb(238, 23, 23);
+        box-shadow: rgb(59, 3, 3) 15px 10px 5px;
+    }
+/* images */
+    .images{
+        border: solid 10px darkorchid;
+        width: 100%;
+        height: 200px;
+        border-radius: 30px;
+        margin-top: 30px;
+      
+    }
+    .flag{
+        border: solid 10px rgb(187, 238, 163);
+        width: 100%;
+        height: 200px;
+        border-radius: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+      
+    }
+    /* fidels gebeta */
+    .ha-pe,.ha-pe-title {
+        font-size:2rem;
+        /* color: rgb(85, 33, 14); */
+        font-weight: bolder;
+        background-color: rgb(12, 157, 224);
+        border-radius: 10px;
+        border: 1px;
+        width: 100%;
+        margin: 5px;
+       
+       
+    }
+    .sounds{
+       
+        width:100px;
+        height: 30px;
+        background-color: rosybrown;
+        border-radius: 10px;
+       
+    }
+    
+   
+    .ha-pe-title{
+        color:rgb(73, 8, 8)
+    }
+    
+
+    .ha-pe:hover {
+      background-color: rgb(1, 32, 46);
+      color: darksalmon;
+      
+    }
+    .betu{
+        background-color: rgb(1, 32, 46);
+        color: darksalmon;
+    }
+    table{
+        width: 100%;
+      
+        
+       
+    }
+    table{
+        overflow: scroll;
+        
+    }
+    .letter-bored{
+        font-size: 2.5rem;
+        color:rgb(247, 239, 234);
+        border: 5px solid rgb(245, 163, 12);
+        background-color: rgb(61, 109, 33);
+        border-radius: 10px;
+        visibility: hidden;
+        position: sticky;
+        top: 0;
+      
+      
+      
+        
+    }
+    @media screen and (max-width:430px){
+        .ha-pe{
+            width:100%;
+            font-size: 1.5rem;
+        }
+        .ha-pe:hover{
+            width: 100%;
+           
+        }
+        .sounds{
+            width: 100%;
+        }
+        .letters-div:hover{
+            width:100px;
+
+        }
+        
+    }
+   
+    

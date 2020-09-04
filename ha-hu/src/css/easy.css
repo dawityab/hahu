@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(134, 142, 145);
+    border: 2px seagreen solid;
+}
+.easy1{
+   
+    color: gold;
+
+}
+.easy-btn{
+   
+    color: mediumpurple;
+}
+.easy-back{
+   
+    color:rgb(46, 60, 243);
+}
+.kids{
+    /* box-shadow: maroon 5px 5px 5px 5px; */
+    border-radius: 40px;
+    font-size: 2.5rem ;
+    font-weight: bolder;
+    border: 0px solid lightpink;
+    width: 150px;
+    height: 100px;
+
+    
+}
+#space{
+width: 50%;
+height: 25%;
+font-size: 2rem;
+color: hotpink;
+background-color: navajowhite;
+margin: 40px;
+}
